@@ -13,7 +13,7 @@ Give a citation to the final published paper when available. If you submitted a 
 This repository hosts all study materials associated with the publication linked above. The materials are organised as follows:  
 * **The data folder** has a bibliographic file for all studies included in the review, a data extraction template, all the data extracted from the identified and included records and data from critical appraisal of the records. The data files and templates are in the universal .csv format.   
 * **The materials folder** has documents recording i) the search strategy and strings used ii) a copy of the critical appraisal items/tool used (if not copyrighted) iii) Screening instructions used to decide on the inclusion and exclusion of records iv) a completed PRISMA 2020 Checklist V) a completed PRISMA-S Checklist
-* **Data analysis** has all code used to process and analyse the data  
+* **The data analysis folder** has all code used to process and analyse the data  
 ## About this project  
 ### Abstract  
 ### Funding   
